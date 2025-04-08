@@ -3,7 +3,7 @@ title: "Fair Image Generation from Pre-trained Models by Probabilistic Modeling"
 collection: publications
 permalink: /publication/FairImage
 excerpt: ''
-date: 2024
+date: 2024-12-17
 venue: 'In the Safe Generative AI Workshop at NeurIPS'
 paperurl: '[(https://openreview.net/pdf?id=GXXQfSpJNI)]'
 ---
