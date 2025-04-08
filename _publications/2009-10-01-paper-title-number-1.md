@@ -5,5 +5,5 @@ permalink: /publication/FairImage
 excerpt: ''
 date: 2024
 venue: 'In the Safe Generative AI Workshop at NeurIPS'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://openreview.net/pdf?id=GXXQfSpJNI)]'
+paperurl: '[(https://openreview.net/pdf?id=GXXQfSpJNI)]'
 ---
