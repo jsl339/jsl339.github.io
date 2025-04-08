@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "John S. Leland"
   avatar           : "DSC_7565.jpg"
-  bio              : "Current Ph.D student at ASU"
+  bio              : "Current Ph.D student at ASU. Likes math and loud music."
   location         : "Phoenix, AZ"
-  employer         :
+  employer         : "Arizona State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jslelan1@asu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jsl339"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,8 +109,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "js_leland"
-  bluesky          : "jsleland.bluesky.social"
+  twitter          : 
+  bluesky          : "jsleland.app"
   vine             :
   weibo            :
   xing             :
