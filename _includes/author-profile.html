@@ -91,6 +91,20 @@
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
       {% endif %}
+      {% if site.author.spotify %}
+      <div class="sidebar-section">
+        <h3>Now Playing</h3>
+        {% if site.author.spotify.link %}
+          <a href="{{ site.author.spotify.link }}" target="_blank" rel="noopener">
+            <img src="{{ site.baseurl }}/images/{{ site.author.spotify.image }}" alt="{{ site.author.spotify.alt | default: 'Spotify Album' }}" style="width:100%; border-radius:8px;">
+          </a>
+        {% endif %}
+        {% if site.author.spotify.text %}
+          <p><a href="{{ site.author.spotify.link }}" target="_blank" rel="noopener">{{ site.author.spotify.text }}</a></p>
+        {% endif %}
+      </div>
+    {% endif %}
+
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
