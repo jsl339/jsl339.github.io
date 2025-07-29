@@ -118,23 +118,15 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
-  {% if site.author.bluesky %}
-  <div class="author-bluesky">
-    <a href="https://bsky.app/profile/{{ site.author.bluesky }}" target="_blank" rel="noopener">
-      <img src="{{ site.baseurl }}/images/bluesky-badge.png" alt="Bluesky Profile" style="width:120px; margin-top:10px;">
-    </a>
-  </div>
-{% endif %}
 
 
       <div class="sidebar-section" style="max-width: 100%;">
-  <h3>Now Playing: </h3>
+  <h3>Now Playing</h3>
   <iframe
     style="border-radius:12px; width:100%;"
     src="https://open.spotify.com/embed/track/2b7zdV4i5vEaRlZAkiIAR5?utm_source=generator"
-    height="352"
+    height="152"
     frameborder="0"
-    allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
     loading="lazy">
   </iframe>
