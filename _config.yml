@@ -106,6 +106,8 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0004-8258-6806"
   pinterest        :
   soundcloud       :
+  spotify:
+    track_id: "2b7zdV4i5vEaRlZAkiIAR5"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
