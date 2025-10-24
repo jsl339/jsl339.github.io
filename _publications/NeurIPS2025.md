@@ -5,6 +5,7 @@ permalink: /publication/HardnessOfApproximatingTPMs
 date: 2025-10-24
 venue: "NeurIPS"
 paperurl: "[https://openreview.net/forum?id=0GvEaa9prl](https://openreview.net/forum?id=0GvEaa9prl)"
+spotlight: "Spotlight (Acceptance Rate 688/21575 = 3.2%)"
 ---
 
 TLDR: We investigate the hardness of approximating distributions with TPMs. Our main results show
