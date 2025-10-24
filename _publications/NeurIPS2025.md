@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "On the Hardness of Approximating Distributions with Tractable Probabilistic Models"
 collection: publications
 permalink: /publication/HardnessOfApproximatingTPMs/
