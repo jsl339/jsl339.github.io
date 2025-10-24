@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Fair Image Generation from Pre-trained Models by Probabilistic Modeling"
 collection: publications
 permalink: /publication/FairImage/
