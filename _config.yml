@@ -83,7 +83,7 @@ author:
   name             : "John S. Leland"
   avatar           : "DSC_7565.jpg"
   bio              : "Current Ph.D student at ASU. I really like math and loud music."
-  location         : "Phoenix, AZ"
+  location         :
   employer         : "Arizona State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
