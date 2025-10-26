@@ -10,7 +10,6 @@ and an exponential lower bound on the size of a deterministic, decomposable prob
 distribution exactly encoded by a decomposable probabilistic circuit. We also have a number of results related to bounded f-divergence
 and approximate inference guarantees."
 paperurl: "https://openreview.net/forum?id=0GvEaa9prl"
-spotlight: "Spotlight (Acceptance Rate 688/21575 = 3.2%)"
 ---
 
 TLDR: We investigate the hardness of approximating distributions with TPMs. Our main results show
