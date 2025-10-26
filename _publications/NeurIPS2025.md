@@ -2,7 +2,7 @@
 layout: publication
 title: "On the Hardness of Approximating Distributions with Tractable Probabilistic Models"
 collection: publications
-permalink: /publication/HardnessOfApproximatingTPMs/
+permalink: /publications/HardnessOfApproximatingTPMs/
 date: 2025-10-24
 venue: "NeurIPS"
 paperurl: "https://openreview.net/forum?id=0GvEaa9prl"
